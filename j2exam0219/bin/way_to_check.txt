@@ -1,0 +1,25 @@
+Input
+ cd /home/jugyou/j2/prog/.send/j11
+and press the enter key.
+
+Input
+ /home/jugyou/common/shell/check_sendFiles_students.sh /home/jugyou/j2/prog/j11 j114XX
+and press the enter key.
+
+Input your students number instead of XX.
+
+If you succsess the sending neccesary files, the output is nothing.
+If you unsuccsess the sending or you have not sent, the output is as follows.
+
+For example, if you have sent 0219No1.c and 0219No2.c and have not sent 0219No3.c and 0219No4.c,
+the screen will be shown below.
+No j2pro0219 0219No3.c
+No j2pro0219 0219No4.c
+
+That's all.
+
+Don't forget to get back to your home directory by using the following command!
+Input
+ cd
+and press the enter key.
+
